@@ -40,5 +40,5 @@ Please check [CONTRIBUTING.md](CONTRIBUTING.md) before creating Pull Requests.
 ## 📈 Badges
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/ShivamJha2436/devops-handbook?style=social)
-![GitHub contributors](https://img.shields.io/github/ShivamJha2436yourusername/devops-handbook)
+![GitHub contributors](https://img.shields.io/github/ShivamJha2436/devops-handbook)
 ![GitHub issues](https://img.shields.io/github/issues/ShivamJha2436/devops-handbook)

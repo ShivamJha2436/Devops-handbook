@@ -35,6 +35,7 @@ Before diving into the resources, ensure you have access to a Linux environment.
 
 ## 🔗 External Resources
 
+- [https://roadmap.sh/linux] - Roadmap to master linux.
 - [LinuxCommand.org](https://linuxcommand.org/) – A comprehensive guide to mastering the Linux command line.
 - [The Linux Command Line by William Shotts](https://linuxcommand.org/tlcl.php) – A free book available online.
 - [Linux Journey](https://linuxjourney.com/) – An interactive learning platform for Linux beginners.
